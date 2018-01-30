@@ -1,0 +1,8 @@
+*.o
+*.d
+*.exe
+*.out
+*.app
+main
+first
+runlua
