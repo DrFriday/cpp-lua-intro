@@ -29,6 +29,8 @@ int howdy(lua_State* state)
     // I haven't checked if we must, but at least in stack machines like the
     // JVM, the stack will be cleaned between each function call.
     
+    // Check this note after
+    
     lua_pushnumber(state, 123);
     
     // Let lua know how many return values we've passed
