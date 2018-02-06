@@ -12,4 +12,4 @@ Run for lua stuff
 g++ -W -Wall -g -o first first.cpp -I/usr/local/include -L/usr/local/lib -llua -ldl
 ```
 
-The '-ldl' is optional sometime
+The '-ldl' is optional sometimes
